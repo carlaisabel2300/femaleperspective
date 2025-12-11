@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c822a98c-4c12-4df4-9b66-07bcf6d09c6f" name="Changes" comment="styling bias cases" />
+    <list default="true" id="c822a98c-4c12-4df4-9b66-07bcf6d09c6f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../portefølje 6- all/female p real for real/html/biascases.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../portefølje 6- all/female p real for real/html/biascases.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../portefølje 6- all/female p real for real/html/messageboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../portefølje 6- all/female p real for real/html/messageboard.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../portefølje 6- all/female p real for real/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../portefølje 6- all/female p real for real/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +31,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/stro0001/female-perspective-frontend.git&quot;,
+    &quot;url&quot;: &quot;https://github.com/carlaisabel2300/femaleperspective.git&quot;,
     &quot;accountId&quot;: &quot;465d46b6-1913-440b-8257-a69ace8f4c6b&quot;
   }
 }</component>
@@ -38,21 +43,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "carla",
-    "last_opened_file_path": "/Users/carlaisabelleiton/Desktop/EK/1. semester/tværfaglige projekter/female p real for real",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;carla&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/carlaisabelleiton/Desktop/EK/1. semester/tværfaglige projekter/female p real for real&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/../../portefølje 6- all" />
@@ -73,7 +78,8 @@
       <option name="presentableId" value="Default" />
       <updated>1765463367971</updated>
       <workItem from="1765463369198" duration="620000" />
-      <workItem from="1765463995033" duration="5151000" />
+      <workItem from="1765463995033" duration="5596000" />
+      <workItem from="1765469982504" duration="4918000" />
     </task>
     <task id="LOCAL-00001" summary="amalies video + styling">
       <option name="closed" value="true" />
