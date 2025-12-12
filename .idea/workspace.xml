@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c822a98c-4c12-4df4-9b66-07bcf6d09c6f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../portefølje 6- all/female p real for real/html/biascases.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../portefølje 6- all/female p real for real/html/biascases.html" afterDir="false" />
+    <list default="true" id="c822a98c-4c12-4df4-9b66-07bcf6d09c6f" name="Changes" comment="biascases + messageboard + css styling">
+      <change beforePath="$PROJECT_DIR$/../../portefølje 6- all/female p real for real/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../portefølje 6- all/female p real for real/html/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +94,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765466748178</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="biascases + messageboard + css styling">
+      <option name="closed" value="true" />
+      <created>1765532872042</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1765532872042</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,6 +134,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="amalies video + styling" />
     <MESSAGE value="styling bias cases" />
-    <option name="LAST_COMMIT_MESSAGE" value="styling bias cases" />
+    <MESSAGE value="biascases + messageboard + css styling" />
+    <option name="LAST_COMMIT_MESSAGE" value="biascases + messageboard + css styling" />
   </component>
 </project>
